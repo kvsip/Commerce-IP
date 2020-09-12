@@ -18,7 +18,7 @@ Syntax highlighted code block
 
 - Bulleted HI FRIENDS!
 THIS IS MY NEW WEBSITE.I'M A NEW DEVELOPER.
-THANKS A LOT....
+THANKS A LOT....MY DEAR UMA, PRIYA, HELEN, RAJAN
 - List
 
 1. Numbered
