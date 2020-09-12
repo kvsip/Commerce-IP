@@ -16,7 +16,9 @@ Syntax highlighted code block
 ## Header 2 NEW DEVELOPER
 ### Header 3 NEW WEB HOSTER
 
-- Bulleted
+- Bulleted HI FRIENDS!
+THIS IS MY NEW WEBSITE.I'M A NEW DEVELOPER.
+THANKS A LOT....
 - List
 
 1. Numbered
