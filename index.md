@@ -3,7 +3,7 @@
 HI FRIENDS!
 THIS IS MY NEW WEBSITE.I'M A NEW DEVELOPER.
 THANKS A LOT....
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+MISSION SUCCESSFUL**
 
 ### Markdown
 
@@ -12,9 +12,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1 COMMERCE STUDENT
-## Header 2 NEW DEVELOPER
-### Header 3 NEW WEB HOSTER
+# Header 1 I'm A COMMERCE STUDENT
+## Header 2 I'm A NEW DEVELOPER
+### Header 3 I'M A NEW WEB HOSTER
 
 - Bulleted HI FRIENDS!
 THIS IS MY NEW WEBSITE.I'M A NEW DEVELOPER.
