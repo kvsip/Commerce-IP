@@ -1,7 +1,8 @@
 ## Welcome to KVS IP
 
-You can use the [editor on GitHub](https://github.com/kvsip/com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
+HI FRIENDS!
+THIS IS MY NEW WEBSITE.I'M A NEW DEVELOPER.
+THANKS A LOT....
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
@@ -11,9 +12,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1 COMMERCE SUDENT
+# Header 1 COMMERCE STUDENT
 ## Header 2 NEW DEVELOPER
-### Header 3 NEW WEB HOSTING
+### Header 3 NEW WEB HOSTER
 
 - Bulleted
 - List
