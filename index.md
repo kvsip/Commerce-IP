@@ -1,40 +1,24 @@
 ## Welcome to KVS IP
 
 HI FRIENDS!
-THIS IS MY NEW WEBSITE.I'M A NEW DEVELOPER.
+  I'm a student of KENDRIYA VIDYALAYA,GANDHIGRAM,DINDIGUL.
+
+THIS IS MY NEW WEBSITE. I'M A NEW DEVELOPER.
+I THANK MY IP TEACHER MR.JASKARAN SINGH FOR GUIDING ME TO CREATE A WEBPAGE..
 THANKS A LOT....
 MISSION SUCCESSFUL**
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 #  I'm A COMMERCE STUDENT
-##  I'm A NEW DEVELOPER
-###  I'M A NEW WEB HOSTER
+##    I'm A NEW DEVELOPER
+###      I'M A NEW WEB HOSTER.
 
 - HI FRIENDS!
-THIS IS MY NEW WEBSITE.I'M A NEW DEVELOPER.
-THANKS A LOT....MY DEAR UMA, PRIYA, HELEN, RAJAN
+THIS IS MY NEW WEBSITE. I'M A NEW DEVELOPER.
+THANKS A LOT...
 - List
 
-1. Numbered
-2. List
+1. I'M NEW TO GITHUB 
+2. THIS IS A TRIAL PAGE..
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kvsip/com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
